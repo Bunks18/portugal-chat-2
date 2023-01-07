@@ -42,7 +42,6 @@ function App() {
     <div className="app">
       <h1>Sounds of Portugal</h1>
       <div className="desc-container">
-        <ReactAudioPlayer src={beachAudio} controls />
         <p>
           I recently took a trip to Portugal. Here are some ChatGPT generated
           images with an accompanying sound byte from the scene of the crime.
