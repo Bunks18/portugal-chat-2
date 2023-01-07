@@ -1,3 +1,5 @@
 1) add an audio file
 2) decide on layout, repeatable sections
-3) 
+3) generate content
+
+cafe in coimbra
