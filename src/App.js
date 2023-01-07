@@ -1,10 +1,8 @@
-import ReactAudioPlayer from "react-audio-player";
 import coimbraCafe from "./coimbra_cafe.png";
 import nightCafeAudio from "./coimbra_plaza_vid.m4v";
 
 import beachCafe from "./beach_cafe.png";
 import beachCafeAudio from "./alveiro_beach_cafe.m4v";
-import beachAudio from "./alveiro_beach.ogg";
 
 import nazare from "./nazare.png";
 import nazareAudio from "./nazare.m4v";
