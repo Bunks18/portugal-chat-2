@@ -16,8 +16,22 @@ h3 {
   max-width: 700px;
 }
 
+@media screen and (max-width: 480px) {
+  h1 {
+    width: 300px;
+  }
+  .desc-container {
+    width: 300px;
+  }
+
+  .photo {
+    width: 300px;
+    margin-bottom: 1rem;
+  }
+}
+
 .photo {
-  width: 700px;
+  max-width: 700px;
   margin-bottom: 1rem;
 }
 
