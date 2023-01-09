@@ -41,8 +41,8 @@ function App() {
       <h1>Sounds of Portugal</h1>
       <div className="desc-container">
         <p>
-          I recently took a trip to Portugal. Here are some ChatGPT generated
-          images with an accompanying sound byte from the scene of the crime.
+          I recently took a trip to Portugal. Here are some Dall-E generated
+          images with an accompanying sound bite from the scene of the crime.
         </p>
       </div>
       <PhotoCard
